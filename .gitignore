@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Lab 2 files
+Lab_2/arealInterp.png
+Lab_2/landuse.png
